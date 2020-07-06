@@ -1,0 +1,57 @@
+[
+    {
+        "id": "0",
+        "productName": "Samsung galaxy s20 ultra",
+        "image": "samsung-galaxy-s20-ultra.jpg",
+        "cpu": "Octa core (Exynos 990, 7nm+)",
+        "ram": "16GB",
+        "storage": "512 GB",
+        "screen": "6.9 inch - Dynamic Amoled ",
+        "price": "1,29,999 tk",
+        "description": "The Samsung Galaxy S20 Ultra goes big in every way imaginable, with 108MP photos, a 100x camera zoom, 40MP selfies, and a 6.9-inch 120Hz display. With over-the-top internal specs on a par with some laptops, you'll pay more for this phone than any non-foldable phone before it, but that's not surprising. What is surprising are some of the bugs we've encountered that keep the Ultra from reaching its full potential."
+    },
+    {
+        "id": "1",
+        "productName": "iPhone 11",
+        "image": "iphone-11.jpg",
+        "cpu": "Hexa core (Apple A13 Bionic, 7 nm+)",
+        "ram": "4GB",
+        "storage": "256 GB",
+        "screen": "6.1 inch - Liquid Retina IPS LCD",
+        "price": "1,00,000TK",
+        "description": "The iPhone 11 - the successor to the iPhone XR - has gone from secondary handset to firmly taking the limelight. Offering most of the top-end camera technology of the powerful iPhone 11 Pro, it packs good spec and manages to do so for a lower cost than many would expect - this is the one to go for if you want a good value new iPhone."
+    },
+    {
+        "id": "2",
+        "productName": "Samsung Galaxy Note 10 Plus",
+        "image": "samsung-galaxy-note-10-plus.jpg",
+        "cpu": "Octa core (Exynos 9825 - 7nm)",
+        "ram": "12GB",
+        "storage": "256 GB SSD",
+        "screen": "6.8 inch - Dynamic AMOLED",
+        "price": "75,000 Tk",
+        "description": "The Galaxy Note 10 Plus is Samsung's biggest and most powerful phone yet, and its Aura colors almost symbolically reflect smartphone luxury top to bottom. The hand-stretching 6.8-inch display is perfectly paired with the S Pen and an extra-big battery. Sure, it's technically neither the fastest nor the best camera phone, but it's the most fun we've had testing a phone in 2019 thanks to its five cameras and smart photo filters. This is one to get if you want to bask in pre-foldable phone opulence. "
+    },
+    {
+        "id": "3",
+        "productName": "iPhone 11 Pro Max",
+        "image": "iphone-11-pro-max.jpg",
+        "cpu": "Hexa core (Apple A13 Bionic, 7 nm+)",
+        "ram": "4GB",
+        "storage": "256 GB SSD",
+        "screen": "6.5 inch - Super Retina XDR OLED",
+        "price": "1,70,000 Tk",
+        "description": "The iPhone 11 Pro Max is the best that Apple can cram into a smartphone - the high-end screen, powerful speakers, upgraded processor all support the huge upgrades to the camera. However, this phone is really for the Apple fan or someone that really needs that extra lens or a touch more battery life - the iPhone 11 feels like it offers better value."
+    },
+    {
+        "id": "4",
+        "productName": "OnePlus 8 Pro",
+        "image": "one-plus-8-pro.jpg",
+        "cpu": "Octa core (Snapdragon 865 - 7 nm+)",
+        "ram": "8GB",
+        "storage": "128 GB SSD",
+        "screen": "6.78 inch - Fluid AMOLED",
+        "price": "86,000 Tk ",
+        "description": "The OnePlus 8 Pro is a proper flagship phone. No more cutting corners. No more 'flagship killer' underdog mantra. OnePlus is now officially mixing it with the biggest names in mobile. It means the 8 Pro is also its most expensive handset to date, but there's plenty of bang for your buck to justify the cost - plus it's still a shade cheaper than rival Samsung, Apple and Huawei smartphones."
+    }
+]
